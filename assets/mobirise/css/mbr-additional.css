@@ -1762,32 +1762,41 @@ section.lazy-placeholder:after {
 .cid-rNo6iZUllq .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rNo6DPBUF1 {
-  padding-top: 0rem;
+.cid-rOgnPRmXft {
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-rNo6DPBUF1 p {
+.cid-rOgnPRmXft p {
   color: #767676;
 }
-.cid-rNo6DPBUF1 .item:focus,
-.cid-rNo6DPBUF1 span:focus {
+.cid-rOgnPRmXft .item:focus,
+.cid-rOgnPRmXft span:focus {
   outline: none;
 }
-.cid-rNo6DPBUF1 .item {
+.cid-rOgnPRmXft .item {
   padding-bottom: 3rem;
   cursor: pointer;
 }
-.cid-rNo6DPBUF1 .item-wrapper {
+.cid-rOgnPRmXft .item-wrapper {
   position: relative;
 }
-.cid-rNo6DPBUF1 .item-btn,
-.cid-rNo6DPBUF1 h4,
-.cid-rNo6DPBUF1 h5 {
+.cid-rOgnPRmXft .item-btn,
+.cid-rOgnPRmXft h4,
+.cid-rOgnPRmXft h5 {
   margin: 0;
 }
-.cid-rNo6DPBUF1 .item-content {
+.cid-rOgnPRmXft .item-content {
   padding-top: 2rem;
+}
+.cid-rOgnPRmXft item-text {
+  color: #000000;
+}
+.cid-rOgnPRmXft .item-title {
+  color: #000000;
+}
+.cid-rOgnPRmXft .item-subtitle {
+  color: #000000;
 }
 .cid-rObr3rL5Wq {
   padding-top: 30px;
